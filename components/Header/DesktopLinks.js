@@ -9,7 +9,7 @@ const Wrapper = styled.nav`
     margin-top: 2rem;
     padding: 1rem 0;
     height: 100%;
-    width: 80%;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
